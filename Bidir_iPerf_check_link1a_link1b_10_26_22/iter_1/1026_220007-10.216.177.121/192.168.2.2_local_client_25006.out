@@ -1,0 +1,13 @@
+Connecting to host 192.168.2.3, port 25006
+[  5] local 192.168.2.2 port 47053 connected to 192.168.2.3 port 25006
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-10.00  sec  11.1 GBytes  9.56 Gbits/sec   11   2.00 MBytes       
+[  5]  10.00-20.00  sec  5.94 GBytes  5.10 Gbits/sec  164   1.74 MBytes       
+[  5]  20.00-30.00  sec  5.92 GBytes  5.08 Gbits/sec   45   1.83 MBytes       
+[  5]  30.00-40.00  sec  5.51 GBytes  4.73 Gbits/sec   95   1.74 MBytes       
+[  5]  40.00-50.00  sec  5.34 GBytes  4.59 Gbits/sec  220   1.44 MBytes       
+[  5]  50.00-52.22  sec  1.49 GBytes  5.77 Gbits/sec    0   1.47 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-52.22  sec  35.3 GBytes  5.81 Gbits/sec  535             sender
+[  5]   0.00-52.22  sec  0.00 Bytes  0.00 bits/sec                  receiver

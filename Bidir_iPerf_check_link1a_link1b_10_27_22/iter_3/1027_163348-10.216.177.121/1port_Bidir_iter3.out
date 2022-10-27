@@ -1,0 +1,16 @@
+Beginning of run at 1027_163348
+Starting servers:
+Starting clients 
+copy remote results
+process results
+192.168.2.2_local_client_25001.out:[  5]   0.00-120.05 sec   529 GBytes  37.8 Gbits/sec                  receiver
+192.168.2.2_local_client_25002.out:[  5]   0.00-120.04 sec   517 GBytes  37.0 Gbits/sec                  receiver
+192.168.2.3_remote_client_25001.out:[  5]   0.00-120.05 sec  13.5 GBytes   966 Mbits/sec                  receiver
+192.168.2.3_remote_client_25002.out:[  5]   0.00-120.05 sec  5.87 GBytes   420 Mbits/sec                  receiver
+192.168.4.2_local_client_25000.out:[  5]   0.00-120.05 sec  18.4 GBytes  1.31 Gbits/sec                  receiver
+Calculating local B/W for 3 local clients
+Local Client(TX) Bandwidth: 76.11 Gbits/sec
+Calculating Remote B/W for 2 clients
+Remote Client(RX) Bandwidth: 0 Gbits/sec
+Calculating total B/W for 5 clients
+Total Bandwidth: 76.11 Gbits/sec

@@ -1,0 +1,13 @@
+Connecting to host 192.168.2.3, port 25000
+[  5] local 192.168.2.2 port 36897 connected to 192.168.2.3 port 25000
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-10.00  sec  10.8 GBytes  9.32 Gbits/sec   45   1.76 MBytes       
+[  5]  10.00-20.00  sec  5.94 GBytes  5.10 Gbits/sec  230   1.69 MBytes       
+[  5]  20.00-30.00  sec  5.91 GBytes  5.08 Gbits/sec   41   1.69 MBytes       
+[  5]  30.00-40.00  sec  5.52 GBytes  4.74 Gbits/sec    0   2.27 MBytes       
+[  5]  40.00-50.00  sec  5.31 GBytes  4.56 Gbits/sec   39   1.24 MBytes       
+[  5]  50.00-52.22  sec  2.88 GBytes  11.2 Gbits/sec   13   1.33 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-52.22  sec  36.4 GBytes  5.99 Gbits/sec  368             sender
+[  5]   0.00-52.22  sec  0.00 Bytes  0.00 bits/sec                  receiver

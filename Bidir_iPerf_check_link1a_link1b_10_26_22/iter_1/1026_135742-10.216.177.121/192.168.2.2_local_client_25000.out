@@ -1,0 +1,10 @@
+Connecting to host 192.168.2.3, port 25000
+[  5] local 192.168.2.2 port 50363 connected to 192.168.2.3 port 25000
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-10.00  sec  29.0 GBytes  24.9 Gbits/sec  2314   2.76 MBytes       
+[  5]  10.00-20.00  sec  27.0 GBytes  23.2 Gbits/sec    0   2.97 MBytes       
+[  5]  20.00-24.62  sec  12.5 GBytes  23.3 Gbits/sec    0   3.00 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-24.62  sec  68.5 GBytes  23.9 Gbits/sec  2314             sender
+[  5]   0.00-24.62  sec  0.00 Bytes  0.00 bits/sec                  receiver

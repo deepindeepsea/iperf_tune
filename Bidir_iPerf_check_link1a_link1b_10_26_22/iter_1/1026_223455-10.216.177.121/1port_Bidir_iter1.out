@@ -1,0 +1,27 @@
+Beginning of run at 1026_223455
+Starting servers:
+Starting clients 
+copy remote results
+process results
+192.168.2.2_local_client_25000.out:[  5]   0.00-120.04 sec  75.2 GBytes  5.38 Gbits/sec                  receiver
+192.168.2.2_local_client_25001.out:[  5]   0.00-120.04 sec  79.3 GBytes  5.67 Gbits/sec                  receiver
+192.168.2.2_local_client_25002.out:[  5]   0.00-120.04 sec  71.4 GBytes  5.11 Gbits/sec                  receiver
+192.168.2.2_local_client_25003.out:[  5]   0.00-120.04 sec  73.7 GBytes  5.27 Gbits/sec                  receiver
+192.168.2.2_local_client_25004.out:[  5]   0.00-120.04 sec   314 GBytes  22.4 Gbits/sec                  receiver
+192.168.2.2_local_client_25005.out:[  5]   0.00-120.04 sec  77.2 GBytes  5.52 Gbits/sec                  receiver
+192.168.2.2_local_client_25006.out:[  5]   0.00-120.04 sec   312 GBytes  22.3 Gbits/sec                  receiver
+192.168.2.2_local_client_25007.out:[  5]   0.00-120.04 sec   311 GBytes  22.3 Gbits/sec                  receiver
+192.168.2.3_remote_client_25000.out:[  5]   0.00-120.05 sec   207 GBytes  14.8 Gbits/sec                  receiver
+192.168.2.3_remote_client_25001.out:[  5]   0.00-120.04 sec   132 GBytes  9.46 Gbits/sec                  receiver
+192.168.2.3_remote_client_25002.out:[  5]   0.00-120.05 sec   296 GBytes  21.2 Gbits/sec                  receiver
+192.168.2.3_remote_client_25003.out:[  5]   0.00-120.05 sec  89.4 GBytes  6.40 Gbits/sec                  receiver
+192.168.2.3_remote_client_25004.out:[  5]   0.00-120.04 sec  84.0 GBytes  6.01 Gbits/sec                  receiver
+192.168.2.3_remote_client_25005.out:[  5]   0.00-120.03 sec  86.2 GBytes  6.17 Gbits/sec                  receiver
+192.168.2.3_remote_client_25006.out:[  5]   0.00-120.04 sec  88.2 GBytes  6.31 Gbits/sec                  receiver
+192.168.2.3_remote_client_25007.out:[  5]   0.00-120.05 sec   329 GBytes  23.6 Gbits/sec                  receiver
+Calculating local B/W for 8 local clients
+Local Client(TX) Bandwidth: 93.95 Gbits/sec
+Calculating Remote B/W for 8 clients
+Remote Client(RX) Bandwidth: 93.95 Gbits/sec
+Calculating total B/W for 16 clients
+Total Bandwidth: 187.90 Gbits/sec

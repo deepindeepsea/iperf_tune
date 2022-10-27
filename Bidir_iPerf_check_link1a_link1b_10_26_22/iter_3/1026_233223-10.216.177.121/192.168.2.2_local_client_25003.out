@@ -1,0 +1,21 @@
+Connecting to host 192.168.2.3, port 25003
+[  5] local 192.168.2.2 port 56877 connected to 192.168.2.3 port 25003
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-10.00  sec  18.0 GBytes  15.5 Gbits/sec  1154   2.31 MBytes       
+[  5]  10.00-20.00  sec  15.5 GBytes  13.3 Gbits/sec  868   2.36 MBytes       
+[  5]  20.00-30.00  sec  20.0 GBytes  17.2 Gbits/sec    0   3.19 MBytes       
+[  5]  30.00-40.00  sec  19.7 GBytes  16.9 Gbits/sec    0   3.19 MBytes       
+[  5]  40.00-50.00  sec  21.5 GBytes  18.4 Gbits/sec    0   3.19 MBytes       
+[  5]  50.00-60.00  sec  16.5 GBytes  14.2 Gbits/sec    0   3.19 MBytes       
+[  5]  60.00-70.00  sec  17.8 GBytes  15.3 Gbits/sec    0   3.19 MBytes       
+[  5]  70.00-80.00  sec  15.9 GBytes  13.7 Gbits/sec   45   2.63 MBytes       
+[  5]  80.00-90.00  sec  20.4 GBytes  17.5 Gbits/sec   38   3.00 MBytes       
+[  5]  90.00-100.00 sec  15.7 GBytes  13.5 Gbits/sec   71   3.00 MBytes       
+[  5] 100.00-110.00 sec  20.6 GBytes  17.7 Gbits/sec  225   3.00 MBytes       
+[  5] 110.00-120.00 sec  20.8 GBytes  17.9 Gbits/sec    0   3.00 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-120.00 sec   222 GBytes  15.9 Gbits/sec  2401             sender
+[  5]   0.00-120.04 sec   222 GBytes  15.9 Gbits/sec                  receiver
+
+iperf Done.

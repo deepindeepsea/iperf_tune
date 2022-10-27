@@ -1,0 +1,21 @@
+Connecting to host 192.168.4.2, port 25004
+[  5] local 192.168.4.3 port 34439 connected to 192.168.4.2 port 25004
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-10.00  sec  9.12 GBytes  7.83 Gbits/sec    0   3.11 MBytes       
+[  5]  10.00-20.00  sec  9.67 GBytes  8.30 Gbits/sec    0   3.11 MBytes       
+[  5]  20.00-30.00  sec  11.0 GBytes  9.41 Gbits/sec    0   3.11 MBytes       
+[  5]  30.00-40.00  sec  9.79 GBytes  8.41 Gbits/sec    2   3.11 MBytes       
+[  5]  40.00-50.00  sec  13.4 GBytes  11.5 Gbits/sec    0   3.11 MBytes       
+[  5]  50.00-60.00  sec  10.4 GBytes  8.93 Gbits/sec    0   3.11 MBytes       
+[  5]  60.00-70.00  sec  11.7 GBytes  10.0 Gbits/sec    0   3.11 MBytes       
+[  5]  70.00-80.00  sec  8.81 GBytes  7.57 Gbits/sec    0   3.11 MBytes       
+[  5]  80.00-90.00  sec  11.2 GBytes  9.59 Gbits/sec  289   3.11 MBytes       
+[  5]  90.00-100.00 sec  9.18 GBytes  7.88 Gbits/sec    0   3.11 MBytes       
+[  5] 100.00-110.00 sec  7.91 GBytes  6.79 Gbits/sec   45   3.11 MBytes       
+[  5] 110.00-120.00 sec  9.57 GBytes  8.22 Gbits/sec    0   3.11 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-120.00 sec   122 GBytes  8.71 Gbits/sec  336             sender
+[  5]   0.00-120.05 sec   122 GBytes  8.70 Gbits/sec                  receiver
+
+iperf Done.
